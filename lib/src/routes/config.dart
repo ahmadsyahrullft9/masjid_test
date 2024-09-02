@@ -1,0 +1,1 @@
+enum APPPAGE { login, home }
